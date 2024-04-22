@@ -1,0 +1,44 @@
+11:20:01.504 [main] INFO  testCase.TC_001_AroundCognizant - Validating the hearder and tooltip
+11:20:01.872 [main] INFO  testCase.TC_001_AroundCognizant - Validation successfull
+22:24:42.929 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 1 STARTED*********
+22:24:47.959 [main] INFO  testCase.TC_001_AroundCognizant - Test case 1 started
+22:24:52.987 [main] ERROR testCase.TC_001_AroundCognizant - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=123.0.2420.97)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [c1fc725eb107e95c6e78b98b42d81c8c, findElement {using=xpath, value=//div[@class='_8ZYZKvxC8bvw1xgQGSkvvA==']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 123.0.2420.97, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51303}, msedge: {msedgedriverVersion: 123.0.2420.97 (ba5f45140663..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51303/devtoo..., se:cdpVersion: 123.0.2420.97, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c1fc725eb107e95c6e78b98b42d81c8c
+22:24:53.025 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 2 STARTED*********
+22:24:53.031 [main] INFO  testCase.TC_001_AroundCognizant - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=123.0.2420.97)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [c1fc725eb107e95c6e78b98b42d81c8c, findElement {using=xpath, value=//*[@id='5d7d4eec-cbe0-4c55-ae2e-f38d926d82a0']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 123.0.2420.97, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51303}, msedge: {msedgedriverVersion: 123.0.2420.97 (ba5f45140663..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51303/devtoo..., se:cdpVersion: 123.0.2420.97, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c1fc725eb107e95c6e78b98b42d81c8c
+22:24:53.037 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 3 STARTED*********
+22:24:53.041 [main] INFO  testCase.TC_001_AroundCognizant - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=123.0.2420.97)
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [c1fc725eb107e95c6e78b98b42d81c8c, findElement {using=xpath, value=//*[@id='c24ff0ed-b166-42e5-b7d5-57c9a9e573cb']//p/a[@href]}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 123.0.2420.97, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51303}, msedge: {msedgedriverVersion: 123.0.2420.97 (ba5f45140663..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51303/devtoo..., se:cdpVersion: 123.0.2420.97, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c1fc725eb107e95c6e78b98b42d81c8c
+22:25:10.453 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 1 STARTED*********
+22:25:15.458 [main] INFO  testCase.TC_001_AroundCognizant - Test case 1 started
+22:25:40.519 [main] ERROR testCase.TC_001_AroundCognizant - no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='_8ZYZKvxC8bvw1xgQGSkvvA==']"}
+  (Session info: chrome=120.0.6099.130)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [857d14288b12fbd63286518780f4a002, findElement {using=xpath, value=//div[@class='_8ZYZKvxC8bvw1xgQGSkvvA==']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.130, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51366}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51366/devtoo..., se:cdpVersion: 120.0.6099.130, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 857d14288b12fbd63286518780f4a002

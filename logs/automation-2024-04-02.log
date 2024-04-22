@@ -1,0 +1,54 @@
+10:24:11.905 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 1 STARTED*********
+10:24:16.941 [main] INFO  testCase.TC_001_AroundCognizant - Test case 1 started
+10:24:22.057 [main] INFO  testCase.TC_001_AroundCognizant - User info got selected
+10:24:32.183 [main] INFO  testCase.TC_001_AroundCognizant - User name Validated Successfully
+10:24:32.183 [main] INFO  testCase.TC_001_AroundCognizant - Mail Id Validated Successfully
+10:24:32.503 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 2 STARTED*********
+10:24:32.537 [main] INFO  testCase.TC_001_AroundCognizant - Successfully scrolled upto 'AROUND COGNIZANT'
+10:24:37.541 [main] INFO  testCase.TC_001_AroundCognizant - Validating the hearder and tooltip
+10:24:37.842 [main] INFO  testCase.TC_001_AroundCognizant - Validation successfull
+10:24:38.044 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 3 STARTED*********
+10:24:38.081 [main] INFO  testCase.TC_001_AroundCognizant - Successfully scrolled upto 'seeAll'
+10:24:43.184 [main] INFO  testCase.TC_001_AroundCognizant - See All News section was displayed
+10:24:53.190 [main] INFO  testCase.TC_001_AroundCognizant - Validating the hearder and tooltip
+10:24:53.504 [main] INFO  testCase.TC_001_AroundCognizant - Validation successfull
+10:27:17.506 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 1 STARTED*********
+10:27:22.521 [main] INFO  testCase.TC_001_AroundCognizant - Test case 1 started
+10:27:27.635 [main] INFO  testCase.TC_001_AroundCognizant - User info got selected
+10:27:37.719 [main] INFO  testCase.TC_001_AroundCognizant - User name Validated Successfully
+10:27:37.719 [main] INFO  testCase.TC_001_AroundCognizant - Mail Id Validated Successfully
+10:27:38.072 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 2 STARTED*********
+10:27:38.108 [main] INFO  testCase.TC_001_AroundCognizant - Successfully scrolled upto 'AROUND COGNIZANT'
+10:27:43.112 [main] INFO  testCase.TC_001_AroundCognizant - Validating the hearder and tooltip
+10:27:43.523 [main] INFO  testCase.TC_001_AroundCognizant - Validation successfull
+10:27:43.797 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 3 STARTED*********
+10:27:43.818 [main] INFO  testCase.TC_001_AroundCognizant - Successfully scrolled upto 'seeAll'
+10:27:48.931 [main] INFO  testCase.TC_001_AroundCognizant - See All News section was displayed
+10:27:58.947 [main] INFO  testCase.TC_001_AroundCognizant - Validating the hearder and tooltip
+10:27:59.359 [main] INFO  testCase.TC_001_AroundCognizant - Validation successfull
+11:16:27.943 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 1 STARTED*********
+11:16:32.976 [main] INFO  testCase.TC_001_AroundCognizant - Test case 1 started
+11:16:38.130 [main] INFO  testCase.TC_001_AroundCognizant - User info got selected
+11:16:48.265 [main] INFO  testCase.TC_001_AroundCognizant - User name Validated Successfully
+11:16:48.265 [main] INFO  testCase.TC_001_AroundCognizant - Mail Id Validated Successfully
+11:16:48.757 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 2 STARTED*********
+11:16:48.810 [main] INFO  testCase.TC_001_AroundCognizant - Successfully scrolled upto 'AROUND COGNIZANT'
+11:16:53.817 [main] INFO  testCase.TC_001_AroundCognizant - Validating the hearder and tooltip
+11:16:54.253 [main] INFO  testCase.TC_001_AroundCognizant - Validation successfull
+11:16:54.526 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 3 STARTED*********
+11:16:54.577 [main] INFO  testCase.TC_001_AroundCognizant - Successfully scrolled upto 'seeAll'
+11:16:59.674 [main] INFO  testCase.TC_001_AroundCognizant - See All News section was displayed
+11:17:09.679 [main] INFO  testCase.TC_001_AroundCognizant - Validating the hearder and tooltip
+11:17:10.074 [main] INFO  testCase.TC_001_AroundCognizant - Validation successfull
+11:19:20.111 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 1 STARTED*********
+11:19:25.121 [main] INFO  testCase.TC_001_AroundCognizant - Test case 1 started
+11:19:30.269 [main] INFO  testCase.TC_001_AroundCognizant - User info got selected
+11:19:40.382 [main] INFO  testCase.TC_001_AroundCognizant - User name Validated Successfully
+11:19:40.382 [main] INFO  testCase.TC_001_AroundCognizant - Mail Id Validated Successfully
+11:19:40.676 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 2 STARTED*********
+11:19:40.702 [main] INFO  testCase.TC_001_AroundCognizant - Successfully scrolled upto 'AROUND COGNIZANT'
+11:19:45.718 [main] INFO  testCase.TC_001_AroundCognizant - Validating the hearder and tooltip
+11:19:46.134 [main] INFO  testCase.TC_001_AroundCognizant - Validation successfull
+11:19:46.362 [main] INFO  testCase.TC_001_AroundCognizant - ********TEST CASE 3 STARTED*********
+11:19:46.409 [main] INFO  testCase.TC_001_AroundCognizant - Successfully scrolled upto 'seeAll'
+11:19:51.492 [main] INFO  testCase.TC_001_AroundCognizant - See All News section was displayed
